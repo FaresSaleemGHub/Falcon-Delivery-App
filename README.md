@@ -23,7 +23,6 @@ Users can place orders, while delivery agents manage and track them in real time
 ---
 
 ## 🔧 Technologies Used
-
 - 💻 **Android Studio** (Java)
 - ☁️ **Firebase Realtime Database**
 - 🗺️ **Google Maps SDK**
@@ -44,8 +43,13 @@ Users can place orders, while delivery agents manage and track them in real time
 
 ---
 
-## 🎥 Demo
-Watch the game in action: [Youtube](https://www.youtube.com/playlist?list=PLWqURIX0Cj4I8uG2kj1EyXeI3zCTjEZdh).
+## 📱 App Demo
+Here’s a quick preview of the app in action:
+### 🖼️ Image Preview
+![Restaurant Menu Screenshot](assets/demo.jpeg)
+
+### 🎥 Video Demo
+[▶️ Click to watch demo](https://www.youtube.com/playlist?list=PLWqURIX0Cj4I8uG2kj1EyXeI3zCTjEZdh)
 
 ---
 
