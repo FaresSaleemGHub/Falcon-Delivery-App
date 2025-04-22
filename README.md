@@ -1,13 +1,12 @@
 # 🛵 Falcon Delivery App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Falcon Delivery App** is a modern Android application designed to streamline the process of food and item delivery, connecting users with delivery personnel in a fast and efficient way. Built using **Java** and **Android Studio**, this project was developed as part of a graduation project to solve real-world delivery challenges in areas with logistical difficulties.
-
 ---
 
 ## 📱 Overview
 
-This application helps users place delivery orders and allows delivery agents to receive and manage these orders. The system ensures smooth communication between users and delivery personnel using a Firebase-powered backend, including real-time updates and map-based navigation.
+**Falcon Delivery App** is an Android application designed to simplify food and item delivery, connecting users with delivery agents efficiently. Built with **Java** and **Android Studio**, this graduation project addresses delivery challenges in areas with logistical difficulties.
+Users can place orders, while delivery agents manage and track them in real time. The app uses a Firebase-powered backend for seamless communication and map-based navigation.
 
 ---
 
@@ -55,10 +54,11 @@ This application was developed as a graduation project to address local delivery
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License – you are free to use, modify, and distribute it with proper attribution.
+## 👤 Author
+Your Name – @FaresSaleemGHub
 
+---
 
-2. Open with Android Studio.
-3. Connect to Firebase (or use your own config).
-4. Build & Run on an Android device or emulator.
+## 📜 License
+This project is open-source and available under the MIT License.
+
