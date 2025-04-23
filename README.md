@@ -56,7 +56,7 @@ Here’s a quick preview of the app in action:
 
 ---
 
-## 🧑‍🎓 About the Project
+## 🧑‍🎓 Project's Story
 This application was developed as a graduation project to address local delivery problems and provide technical solutions using Android development practices. It showcases backend integration, real-time location tracking, and user-friendly design.
 
 ---
