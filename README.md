@@ -8,6 +8,8 @@ A smart delivery solution crafted for seamless order handling, real-time trackin
 
 **Falcon Delivery App** is an Android application designed to simplify food and item delivery, connecting users with delivery agents efficiently. Built with **Java** and **Android Studio**, this graduation project addresses delivery challenges in areas with logistical difficulties.
 Users can place orders, while delivery agents manage and track them in real time. The app uses a Firebase-powered backend for seamless communication and map-based navigation.
+<br>
+This application was developed as a graduation project to address local delivery problems and provide technical solutions using Android development practices. It showcases backend integration, real-time location tracking, and user-friendly design.
 
 ---
 
@@ -33,17 +35,6 @@ Users can place orders, while delivery agents manage and track them in real time
 
 ---
 
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FaresSaleemGHub/Falcon-Delivery-App.git
-2. Open with Android Studio.
-3. Connect to Firebase (or use your own config).
-4. Build & Run on an Android device or emulator.
-
----
-
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
@@ -56,8 +47,14 @@ Here’s a quick preview of the app in action:
 
 ---
 
-## 🧑‍🎓 Project's Story
-This application was developed as a graduation project to address local delivery problems and provide technical solutions using Android development practices. It showcases backend integration, real-time location tracking, and user-friendly design.
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FaresSaleemGHub/Falcon-Delivery-App.git
+2. Open with Android Studio.
+3. Connect to Firebase (or use your own config).
+4. Build & Run on an Android device or emulator.
 
 ---
 
