@@ -61,7 +61,7 @@ This application was developed as a graduation project to address local delivery
 ---
 
 ## 👤 Author
-Your Name – @FaresSaleemGHub
+Written with passion by – @FaresSaleemGHub
 
 ---
 
