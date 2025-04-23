@@ -46,7 +46,9 @@ Users can place orders, while delivery agents manage and track them in real time
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
-![Restaurant Menu Screenshot](assets/demo.jpeg)
+![Restaurant Menu Screenshot1](assets/demo.jpeg)
+![Restaurant Menu Screenshot2](assets/demo3.jpeg)
+![Restaurant Menu Screenshot3](assets/demo2.jpeg)
 
 ### 🎥 Video Demo
 [▶️ Click to watch demo](https://www.youtube.com/playlist?list=PLWqURIX0Cj4I8uG2kj1EyXeI3zCTjEZdh)
