@@ -1,5 +1,6 @@
 # 🛵 Falcon Delivery App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+A smart delivery solution crafted for seamless order handling, real-time tracking, and efficient communication between users and delivery personnel.
 
 ---
 
